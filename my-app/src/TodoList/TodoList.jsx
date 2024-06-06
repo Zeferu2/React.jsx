@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Add from "./add";
+import Add from "./Add";
 import List from "./List";
 
 function TodoList(){
